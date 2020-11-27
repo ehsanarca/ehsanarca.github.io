@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://arca-biotech.ir"
+baseURL = "https://ehsanarca.github.io"
 title = "Arca Bio Technology"
 theme = "airspace-hugo"
 publishDir = "docs"
