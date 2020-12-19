@@ -17,14 +17,14 @@
 - id: posted_by
   translation: Posted By
 - id: read_more
-  translation: Continue Reading
+  translation: بیشتر بخوانید
 - id: latest_posts
-  translation: Derniers articles
+  translation: آخرین مقالات
 - id: page_prev
-  translation: Précédent
+  translation: قبلی
 - id: page_next
-  translation: Suivant
+  translation: بعدی
 - id: tags
-  translation: Mots clefs
+  translation: برچسب ها
 - id: categories
-  translation: Catégories
+  translation: دسته بندی ها
