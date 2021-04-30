@@ -76,9 +76,11 @@
 {{ end }}
 
 <!-- Service -->
-{{ if $data.homepage.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
+<div id="services-wrapper">
+  {{ if $data.homepage.service.enable }}
+  {{ partial "service.html" . }}
+  {{ end }}
+</div>
 <!-- /service -->
 
 <!-- Call to action -->
