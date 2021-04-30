@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'arcafont';
+    src: local('IRANSansWeb'), url(iransans.woff) format("woff"), url(iransans.otf) format("opentype");
+    src: url(iransans.eot);
+    src: url(iransans.eot?#iefix) format("eot"), url(iransans.woff) format("woff"), url(iransans.ttf) format("truetype"), url(iransans.svg) format("svg")
+}

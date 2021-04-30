@@ -6,6 +6,10 @@
     <description>Recent content in درباره ما on Arca Bio Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa-ir</language>
-    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://ehsanarca.github.io/fa/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    
+	<atom:link href="https://ehsanarca.github.io/fa/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
