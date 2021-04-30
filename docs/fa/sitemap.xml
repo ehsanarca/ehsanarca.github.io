@@ -333,20 +333,6 @@
   </url>
   
   <url>
-    <loc>https://ehsanarca.github.io/fa/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ehsanarca.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ehsanarca.github.io/fa/about/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ehsanarca.github.io/fa/author/</loc>
     <xhtml:link
                 rel="alternate"
@@ -357,20 +343,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://ehsanarca.github.io/fa/author/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ehsanarca.github.io/fa/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ehsanarca.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://ehsanarca.github.io/fa/contact/"
                 />
   </url>
   
@@ -525,6 +497,34 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://ehsanarca.github.io/fa/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ehsanarca.github.io/fa/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ehsanarca.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ehsanarca.github.io/fa/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ehsanarca.github.io/fa/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ehsanarca.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://ehsanarca.github.io/fa/about/"
                 />
   </url>
   
