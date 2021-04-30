@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "با ما در تماس باشید"
+description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

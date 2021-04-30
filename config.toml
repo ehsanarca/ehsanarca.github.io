@@ -96,7 +96,7 @@ logo_width = "150px"
 description = "This is meta description"
 author = "Themefisher"
 # Contact Information
-mobile = "0124857985320"
+phone = "123456789"
 email = "demo@email.com"
 location = "North Main Street,Brooklyn Australia"
 # contact form action
@@ -258,22 +258,22 @@ copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Ri
 ######################### france navigation #############################
 # main menu
 [[Languages.fa.menu.main]]
-name = "Accueil"
+name = "خانه"
 URL = "/"
 weight = 1
 
 [[Languages.fa.menu.main]]
-name = "À propos"
+name = "درباره ما"
 URL = "about"
 weight = 2
 
 [[Languages.fa.menu.main]]
-name = "Projet"
+name = "پروژه ها"
 URL = "project"
 weight = 3
 
 [[Languages.fa.menu.main]]
-name = "Blog"
+name = "بلاگ"
 URL = "blog"
 weight = 4
 
@@ -298,24 +298,24 @@ hasChildren = true
   URL = "service"
   
 [[Languages.fa.menu.main]]
-name = "Contact"
+name = "تماس"
 URL = "contact"
 weight = 6
 
 
 # footer menu
 [[Languages.fa.menu.footer]]
-name = "About"
+name = "درباره ما"
 URL = "about"
 weight = 1
 
 [[Languages.fa.menu.footer]]
-name = "Project"
+name = "پروژه ها"
 URL = "project"
 weight = 2
 
 [[Languages.fa.menu.footer]]
-name = "Service"
+name = "خدمات"
 URL = "service"
 weight = 3
 

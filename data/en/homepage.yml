@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "A Digital Marketing <br/> & Design Agency"
-  content : "احسان بز است."
+  content : "abd"
   button:
     enable : true
     label : "Discover Our Project"
