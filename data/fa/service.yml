@@ -40,22 +40,21 @@ featured_service:
 service:
   enable : true
   title : "خدمات ما"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "شرکت بیوتکنولوژی آرکا علاوه بر ساخت و تجهیز انواع فرمانتورهای صنعتی و بایوراکتور های آزمایشگاهی <br/>آماده همکاری و ارائه خدمات متنوع آزمایشگاهی و پزشکی می‌باشد"
   service_item:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: اتوماسیون صنعتی  
+      name: بازسازی، اتوماسیون و توسعه فرمانتورهای قدیمی  
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: طراحی و ساخت بایوراکتور آزمایشگاهی
+      name: طراحی و تولید قطعات مورد نیاز فرمانتورهای آزمایشگاهی و صنعتی
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: طراحی و ساخت فرمانتورهای صنعتی
+      name: طراحی و ساخت مخازن نگهداری دارو و مواد شیمیایی
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
@@ -65,12 +64,12 @@ service:
 
     # service item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: پایپینگ تخصصی خطوط تولید دارو و پتروشیمی
+      name: اتوماسیون صنعتی و پایپینگ تخصصی خطوط تولید دارو
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: بازسازی و تعمیرات دستگاه های آزمایشگاهی
+      name: بازسازی و تعمیرات دستگاه های آزمایشگاهی و پزشکی
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
@@ -80,7 +79,7 @@ service:
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
+      name: تامین سنسورهای مورد نیاز فرمانتورها
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
 ############################# call to action #################################
