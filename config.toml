@@ -252,7 +252,7 @@ languageCode = "fa-ir"
 contentDir = "content/farsi"
 weight = 2
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+#copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 
 
 ######################### france navigation #############################
@@ -263,73 +263,73 @@ URL = "/"
 weight = 1
 
 [[Languages.fa.menu.main]]
-name = "درباره ما"
-URL = "about"
 weight = 2
+name = "محصولات"
+hasChildren = true
+
+  [[Languages.fa.menu.main]]
+  parent = "محصولات"
+  name = "بایوراکتورهای آزمایشگاهی "
+  URL = "faq"
+
+  [[Languages.fa.menu.main]]
+  parent = "محصولات"
+  name = "فرمانتورهای صنعتی"
+  URL = "pricing"
+
+  [[Languages.fa.menu.main]]
+  parent = "محصولات"
+  name = "پمپ پریستالتیک"
+  URL = "service"
 
 [[Languages.fa.menu.main]]
 name = "پروژه ها"
-URL = "project"
+URL = "about"
 weight = 3
 
 [[Languages.fa.menu.main]]
-name = "بلاگ"
+name = "وبلاگ"
 URL = "blog"
 weight = 4
 
 [[Languages.fa.menu.main]]
+name = "درباره ما"
+URL = "about"
 weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[Languages.fa.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[Languages.fa.menu.main]]
-  parent = "Pages"
-  name = "Tarification"
-  URL = "pricing"
-
-  [[Languages.fa.menu.main]]
-  parent = "Pages"
-  name = "Un service"
-  URL = "service"
   
 [[Languages.fa.menu.main]]
-name = "تماس"
+name = "تماس با ما"
 URL = "contact"
 weight = 6
 
 
 # footer menu
 [[Languages.fa.menu.footer]]
-name = "درباره ما"
+#name = "درباره ما"
 URL = "about"
 weight = 1
 
 [[Languages.fa.menu.footer]]
-name = "پروژه ها"
+#name = "پروژه ها"
 URL = "project"
 weight = 2
 
 [[Languages.fa.menu.footer]]
-name = "خدمات"
+#name = "خدمات"
 URL = "service"
 weight = 3
 
 [[Languages.fa.menu.footer]]
-name = "Pricing"
+#name = "Pricing"
 URL = "pricing"
 weight = 4
 
 [[Languages.fa.menu.footer]]
-name = "سوالات متداول"
+#name = "سوالات متداول"
 URL = "faq"
 weight = 5
 
 [[Languages.fa.menu.footer]]
-name = "تماس"
+#name = "تماس"
 URL = "contact"
 weight = 6

@@ -1,9 +1,9 @@
 ---
-title: " مطلب دانیال"
+title: " پمپ پریستالتیک چیست؟"
 date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/italy.jpg"
-bg_image: "images/italy.jpg"
+author: Danial Majidi
+image : "images/peri.jpg"
+bg_image: "images/peri.jpg"
 categories: ["Company News"]
 tags: ["Advice","Technology"]
 description: "this is meta description"
@@ -11,21 +11,23 @@ draft: false
 type: "post"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+پمپ پریستالتیک نوعی [پمپ](https://fa.wikipedia.org/wiki/پمپ) جابجایی مثبت است که برای پمپاژ [سیالات](https://fa.wikipedia.org/wiki/سیال) مختلفی به کار می‌رود که گاهی به آنها roller pump نیز گفته می‌شود. سیال از داخل یک شلنگ یا لوله انعطاف‌پذیر در مسیر دایره ای عبور می‌کند. روتوری که در انتهای آن قطعه ای «غلتکی شکل» وجود دارد شلنگ انعطاف‌پذیر را فشرده و با چرخش روتور آن قسمت بسته شده حرکت کرده و باعث جریان پیدا کردن یا پمپ شدن سیال می‌شود. به عبارتی دیگر وقتی روتور می چرخد، قسمتی از تیوب تحت فشار یا بسته شدن قرار می گیرد که این سبب می شود به سیال نیرویی وارد گردد تا داخل تیوب حرکت کند. بعلاوه وقتی تیوب باز می شود و به حالت اولیه اش بر می گردد، سیال به داخل پمپ جریان می یابد. این فرآیند پریستالتیک نام دارد و در بسیاری از سیستم های بیولوژیک استفاده می شود. طراحی این پمپ ها به گونه ای می باشد که سیال تماسی با قطعات پمپ را نداشته و برای انتقال سیالات خورنده و سیالاتی که در صنایع غذایی و دارویی استفاده می شوند، مناسب می باشد.</p>
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+>  پمپ پریستالتیک عموما برای پمپاژ سیالات تمیز و استریل و یا سیالات خورنده استفاده می شود. چرا که ورود آلودگی در این پمپ ها اتفاق نمی افتد. بعضی از کاربردهای این پمپ ها در پمپاژ فرآورده های خونی، سیالات شیمیایی خورنده، و همچنین در جاهایی که سیال می بایست از محیط ایزوله گردد، می باشد. [پمپ پریستالتیک](https://partoshar.com/catproduct/پمپ-پریستالتیک) روشی استاندارد در واحدهای ICP-MS و ICP-OES می باشند. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+از جمله کاربرد های این پمپ های پریستالتیک (Peristaltic Pump) می توان به انتقال، تزریق و فیلتراسیون سیالات ترکیبی، سیالات ساینده یا خورنده، سیالات نامطبوع یا آلوده کننده اشاره نمود.و بطور کلی در کارخانجات غذایی، صنایع شیمیایی، کارخانجات تولید دارو، کارخانجات رنگ، بتن و فوم بتن، صنایع آب و فاضلاب، کشاورزی و صنایع اتمی و نظامی کاربرد دارد.
+
+در انتخاب یک پمپ پریستالتیک ضروری است که سرعت چرخش روتور، دقت اندازه گیری، محدوده جریان، تعداد کانال، انواع هد و تیوب ( شیلنگ ) قابل استفاده ، پارامترهای قابل کنترل و نوع کنترل مورد مطالعه قرار گیرد.
+
+پمپ پریستالتیک (Peristaltic Pump)  از سه قسمت کلی تشکیل شده است :
+
+1. درایو پمپ پریستالتیک ( Peristaltic Pump ) یا پمپ غلتکی (Roller Pump) که مجموعه موتور دستگاه ، سیستم کنترلر ، نمایشگر ، ورودی ها و خروجی ها و جعبه حاوی آنها می باشد.
+
+2. هد پمپ پریستالتیک ( Peristaltic Pump ) به قسمتی گفته می شود که روی شفت موتور دستگاه نصب می شود و دارای چند غلتک می باشد که با ایجاد فشار روی بدنه بیرونی شلنگ ، درون شلنگ ایجاد خلاء و فشار می نماید و سبب جابجا شدن مایع از یک سر شلنگ به سر دیگر آن می شود.
+
+3. شلنگ منعطف ( Flexible Tube ) پمپ پریستالتیک  به سبب خاصیت فیزیکی، امکان انحنا به درون توسط غلتک های هد و بازگشت به حالت اولیه پس از عبور هر غلتک را دارا می باشد. معروفترین نوع این شلنگ ها از جنس سیلیکون می باشد.
+
+**پمپ پریستالتیک مدل آرکاپمپ** می تواند با هدهای  YZ1515X, YZ2515X, YZII15, YZII25و DG15-24 استفاده شود. این پمپ غلطکی می تواند نرخ جریان 0.07 ml/min تا 2000 mL/min را فراهم کند. سرعت این پمپ پریستالتیک می تواند از طریق کنترل پانل، رابط کنترل خارجی یا رابط RS485 کنترل شود. پارامترهای در حال اجرا توسط سرعت پمپ پریستالتیک ( پمپ مالشی ) مدل BT600-2J بطور اتوماتیک ذخیره می شوند. سرعت پمپ پریستالتیک مدل BT600-2J براحتی قابل استفاده می باشد.</p>
 
 ```
   .blog-classic {
@@ -35,17 +37,4 @@ eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Imped
   }
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+</p>
